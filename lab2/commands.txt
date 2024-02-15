@@ -1,0 +1,7 @@
+// запустить программу hello world из предыдущей задачи под strace
+
+$ strace ./hello
+
+// запустите под strace команду ‘wget kernel.org’
+
+$ strace wget kernel.org
